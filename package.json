@@ -1,12 +1,12 @@
 {
   "name": "initial_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a practice of api rest using node js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["FreeCodeCamp","Api","Rest"],
   "author": "Gabriel Penate",
-  "license": "ISC"
+  "license": "MIT"
 }
